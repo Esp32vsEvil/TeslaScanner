@@ -10,3 +10,5 @@ It's a fun game when driving, but can become obnoxious in certain areas.
 You can of course modify this program to control whatever your little heart desires. 
 
 Written in the Arduino IDE and uses several libraries included with the ESP32 boards.
+
+For educational use only, we are not responsible for any use outside of education.
